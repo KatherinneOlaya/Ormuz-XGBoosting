@@ -3,7 +3,7 @@
 
 ### 🛢️ ¿Por qué este proyecto? (Enfoque de Mercado) ✨
 
-Este es un desarrollo con fines educativos y de experimentación analítica (amateur), nacido de la curiosidad por entender cómo los eventos del mundo real impactan los mercados financieros. 
+Este es un desarrollo con fines educativos y de **experimentación analítica (amateur)**, nacido de la curiosidad por entender cómo los eventos del mundo real impactan los mercados financieros. 
 
 Para predecir el precio del barril a 24 horas, el modelo no se limita a mirar el precio de ayer; en su lugar, integra variables fundamentales de la oferta, la demanda y el riesgo geopolítico global, fundamentado en tres pilares:
 
